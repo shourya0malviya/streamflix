@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Production build output
+client/dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment files (none are needed for this project, but just in case)
+.env
+.env.local
+
+# Editor/OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
